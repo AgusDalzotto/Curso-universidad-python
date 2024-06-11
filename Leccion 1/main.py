@@ -7,4 +7,5 @@ mail = "sabastiandiaz@gmail.com"
 #testeo
 
 print(nombre)
-print
+print(tel)
+print(mail)
